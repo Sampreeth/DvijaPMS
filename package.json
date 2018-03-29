@@ -6,7 +6,9 @@
     "create-react-class": "^15.6.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "react-multistep": "^3.0.2",
     "react-scripts": "1.1.1",
+    "react-stepzilla": "^4.7.0",
     "semantic-ui-react": "^0.79.0"
   },
   "scripts": {
